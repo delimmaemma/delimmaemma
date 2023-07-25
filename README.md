@@ -4,7 +4,7 @@ After graduating from the University of North Texas with my Bachelor's in financ
 
 ## Technical Skills:
 
-Microsoft Office | Bloomberg Access Terminal | SPSS | Wall Street Office | ReconNET | Amazon Workspace | HTML | CSS | JavaScript | Node.js | React.js | Cypress | Postman
+Microsoft Office | Bloomberg Access Terminal | SPSS | Wall Street Office | ReconNET | Amazon Workspace | HTML | CSS | JavaScript | Node.js | React.js | Cypress | Postman API
 
 ## Experience:
 
