@@ -1,6 +1,6 @@
 ## About Me:
 
-After graduating from the University of North Texas with my Bachelor's in finance, I briefly worked in the field at the Bank of New York Mellon. Soon after my graduation, I learned that finance was not for me, and began looking at other options. After finding Bloom Institute of Technology, I started working on getting my certificate in full-stack web development, where I am currently working to complete the program by the end of November. I am learning that programming is much more my niche, along with problem solving and mathematical computation and patterns.
+After graduating from the University of North Texas with my Bachelor's in finance, I worked in the field at the Bank of New York Mellon. Soon after my graduation, I learned that finance was not for me, and began looking at other options. After finding Bloom Institute of Technology, I started working on getting my certificate in full-stack web development, where I am currently working to complete the program by the end of November. I am learning that programming is much more my niche, along with problem solving and mathematical computation and patterns.
 
 ## Technical Skills:
 
