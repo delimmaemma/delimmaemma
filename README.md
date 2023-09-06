@@ -18,5 +18,16 @@ Upon graduation from BloomTech, I hope to land a remote or hybrid job working in
 
   * Pronouns: she/her
   * How to reach me: You can reach me via Github inbox, [LinkedIn](https://www.linkedin.com/in/emmahtml/), or [email](mailto:calvinhtml@gmail.com)
-  * I'm currently learning: C#
-  * I'm currently working on: A [minesweeper clone](http://www.github.com/dilemmaemma/minesweeper) with a friend to showcase experience in server development, in addition to skills in advanced React, RDBMS, and API construction. 
+  * I'm currently working on: A [minesweeper clone](http://www.github.com/dilemmaemma/minesweeper) with a friend to showcase experience in server development, in addition to skills in advanced React, RDBMS, and API construction.
+    
+## To Learn:
+
+- ASP.NET | C# | Java | PHP | Python | Ruby On Rails | Rust
+
+<hr>
+
+[![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilemmaemma&show_icons=true)](https://github.com/dilemmaemma) 
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilemmaemma&show_icons=true)
+
+<br><br>
