@@ -4,7 +4,7 @@ After graduating from the University of North Texas with my Bachelor's in financ
 
 ## Technical Skills:
 
-Microsoft Office | Bloomberg Access Terminal | SPSS | Wall Street Office | ReconNET | Amazon Workspace | HTML | CSS | JavaScript | Node.js | React.js | Redux.js | Cypress | Postman API
+Microsoft Office | Bloomberg Access Terminal | SPSS | Wall Street Office | ReconNET | Amazon Workspace | React.js | Redux | Hooks | Context API | Cypress | Yup | Axios | Javascript | HTML | CSS | Node.js | Express | SQL | SQLite3 | Github | VS Code | Vercel | Heroku | Postman API | Algorithms | Architecture | Debugging | Deployment
 
 ## Experience:
 
@@ -12,12 +12,11 @@ While having no official coding job experience, I believe that results speak far
 
 ## Next Moves:
 
-Upon graduation from BloomTech, I hope to land a remote or hybrid job working in full-stack web development and utilizing my financial background to specialize in finance related webpages.
+Upon graduation from BloomTech, I hope to land a remote or hybrid job working in full-stack web development and specializing in React and/or RDBMS. 
 
 ## Additional Information:
 
   * Pronouns: she/her
   * How to reach me: You can reach me via Github inbox, [LinkedIn](https://www.linkedin.com/in/emmahtml/), or [email](mailto:calvinhtml@gmail.com)
-  * I'm currently learning: Advanced React
-  * I'm currently working on: I'm currently working on gaining more experience in React and SPAs. Upon gaining more experience, I hope to create my own personal
-                              website to leverage these skills.
+  * I'm currently learning: C#
+  * I'm currently working on: A [minesweeper clone](http://www.github.com/dilemmaemma/minesweeper) with a friend to showcase experience in server development, in addition to skills in advanced React, RDBMS, and API construction. 
