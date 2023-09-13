@@ -28,6 +28,6 @@ Upon graduation from BloomTech, I hope to land a remote or hybrid job working in
 
 [![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilemmaemma&show_icons=true)](https://github.com/dilemmaemma) 
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilemmaemma&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilemmaemma&show_icons=true)
 
 <br><br>
