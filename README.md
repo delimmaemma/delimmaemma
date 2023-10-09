@@ -1,6 +1,6 @@
 ## About Me:
 
-After graduating from the University of North Texas with my Bachelor's in finance, I worked in the field at the Bank of New York Mellon. Soon after my graduation, I learned that finance was not for me, and began looking at other options. After finding Bloom Institute of Technology, I started working on getting my certificate in full-stack web development, where I am currently working to complete the program by the end of November. I am learning that programming is much more my niche, along with problem solving and mathematical computation and patterns.
+After graduating from the University of North Texas with my Bachelor's in finance, I worked in the field at the Bank of New York Mellon. Soon after my graduation, I learned that finance was not for me, and began looking at other options. After finding Bloom Institute of Technology, I started working on getting my certificate in full-stack web development, where I recently completed the program in October. I am learning that programming is much more my niche, along with problem solving and mathematical computation and patterns.
 
 ## Technical Skills:
 
@@ -12,7 +12,7 @@ While having no official coding job experience, I believe that results speak far
 
 ## Next Moves:
 
-Upon graduation from BloomTech, I hope to land a remote or hybrid job working in full-stack web development and specializing in React and/or RDBMS. 
+I am currently seeking remote job opportunities in front-end or full-stack web development specializing in React and/or RDBMS. Given the leniency of the hiring manager, I am also open to hybrid work in the Philadelphia/Manhattan area, as long as the hiring manager will let me work remote until I complete my move to Philly.
 
 ## Additional Information:
 
