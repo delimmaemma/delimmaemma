@@ -4,7 +4,7 @@ After graduating from the University of North Texas with my Bachelor's in financ
 
 ## Technical Skills:
 
-Microsoft Office | Bloomberg Access Terminal | SPSS | Wall Street Office | ReconNET | Amazon Workspace | React.js | Redux | Hooks | Context API | Cypress | Yup | Axios | Javascript | HTML | CSS | Node.js | Express | SQL | SQLite3 | Github | VS Code | Vercel | Heroku | Postman API | Algorithms | Architecture | Debugging | Deployment
+Microsoft Office | Bloomberg Access Terminal | SPSS | Wall Street Office | ReconNET | Amazon Workspace | React.js | Redux | Hooks | Context API | Cypress | Yup | Axios | Javascript | HTML | CSS | Node.js | Express | SQL | SQLite3 | Java | Github | VS Code | Vercel | Heroku | Postman API | Algorithms | Architecture | Debugging | Deployment
 
 ## Experience:
 
