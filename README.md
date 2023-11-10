@@ -18,11 +18,11 @@ I am currently seeking remote job opportunities in front-end or full-stack web d
 
   * Pronouns: she/her
   * How to reach me: You can reach me via Github inbox, [LinkedIn](https://www.linkedin.com/in/emmahtml/), or [email](mailto:calvinhtml@gmail.com)
-  * I'm currently working on: A [minesweeper clone](http://www.github.com/dilemmaemma/minesweeper) with a friend to showcase experience in server development, in addition to skills in advanced React, RDBMS, and API construction.
+  * I'm currently working on: Learning Java to increase my back-end capabilities and become a more marketable candidate
     
 ## To Learn:
 
-- ASP.NET | C# | Java | PHP | Python | Ruby On Rails | Rust
+- ASP.NET | C# | C++ | Java | Python | Ruby On Rails | Rust
 
 <hr>
 
