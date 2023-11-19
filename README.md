@@ -12,7 +12,7 @@ While having no official coding job experience, I believe that results speak far
 
 ## Next Moves:
 
-I am currently seeking remote job opportunities in front-end or full-stack web development specializing in React and/or RDBMS. Given the leniency of the hiring manager, I am also open to hybrid work in the Philadelphia/Manhattan area, as long as the hiring manager will let me work remote until I complete my move to Philly.
+I am currently seeking remote job opportunities in front-end or full-stack web development specializing in React and/or RDBMS. 
 
 ## Additional Information:
 
