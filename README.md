@@ -33,3 +33,11 @@ Currently seeking remote opportunities in front-end or full-stack web developmen
 <hr/>
   
 <h2>Let's build something remarkable together! 💻✨</h2>
+<hr>
+
+[![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilemmaemma&show_icons=true)](https://github.com/dilemmaemma) 
+&nbsp;
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilemmaemma&show_icons=true)
+
+<br><br>
