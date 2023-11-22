@@ -30,5 +30,6 @@ Currently seeking remote opportunities in front-end or full-stack web developmen
 
 - Learning: Java
 - Working On: Enhancing my skill set to be a highly marketable candidate.
+
   
-<b>Let's build something remarkable together! 💻✨</b>
+<h2>Let's build something remarkable together! 💻✨</h2>
