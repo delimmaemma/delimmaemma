@@ -9,11 +9,11 @@ Proficient in HTML, CSS, and JavaScript, I wield the power of React for creating
 
 ## 🌐 Technical Skills Snapshot
 
-- Front-end: React.js, Redux, Hooks, Context API
-- Testing: Cypress, Yup, Axios
-- Backend: Node.js, Express, SQL, SQLite3
-- Tools: GitHub, VS Code, Vercel, Heroku, Postman API
-- Other: Algorithms, System Architecture, Debugging, Deployment
+- <b>Front-end:</b> React.js, Redux, Hooks, Context API
+- <b>Testing:</b> Cypress, Yup, Axios
+- <b>Backend:</b> Node.js, Express, SQL, SQLite3
+- <b>Tools:</b> GitHub, VS Code, Vercel, Heroku, Postman API
+- <b>Other:</b> Algorithms, System Architecture, Debugging, Deployment
   
 ## 🌱 In Progress
 While my official coding journey is in its early stages, I firmly believe in the power of results. I'm driven to leverage my coding achievements as a stepping stone to gain invaluable industry experience.
@@ -23,13 +23,13 @@ Currently seeking remote opportunities in front-end or full-stack web developmen
 
 ## 🌈 Additional Insights
 
-- Pronouns: She/Her
-- Connect with me on GitHub, LinkedIn, or via email.
+- <b>Pronouns:</b> She/Her
+- Connect with me on <a href="https://www.github.com/dilemmaemma">GitHub</a>, <a href="https://www.linkedin.com/in/emmahtml">LinkedIn</a>, or via <a href="mailto: emmaf.henderson@outlook.com">email</a>.
   
 ## 📚 Ongoing Endeavors
 
-- Learning: Java
-- Working On: Enhancing my skill set to be a highly marketable candidate.
+- <b>Learning:</b> Java
+- <b>Working On:</b> Enhancing my skill set to be a highly marketable candidate.
 <hr/>
   
 <b>Let's build something remarkable together! 💻✨</b>
