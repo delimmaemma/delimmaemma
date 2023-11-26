@@ -12,6 +12,7 @@ Proficient in HTML, CSS, and JavaScript, I wield the power of React for creating
 - <b>Front-end:</b> React.js, Redux, Hooks, Context API
 - <b>Testing:</b> Cypress, Yup, Axios
 - <b>Backend:</b> Node.js, Express, SQL, SQLite3
+- <b>Soft Skills:</b> Communication, Problem Solving, Interpersonal, Strong Listener
 - <b>Tools:</b> GitHub, VS Code, Vercel, Heroku, Postman API
 - <b>Other:</b> Algorithms, System Architecture, Debugging, Deployment
   
@@ -23,7 +24,6 @@ Currently seeking remote opportunities in front-end or full-stack web developmen
 
 ## 🌈 Additional Insights
 
-- <b>Pronouns:</b> She/Her
 - Connect with me on <a href="https://www.github.com/dilemmaemma">GitHub</a>, <a href="https://www.linkedin.com/in/emmahtml">LinkedIn</a>, or via <a href="mailto: emmaf.henderson@outlook.com">email</a>.
   
 ## 📚 Ongoing Endeavors
