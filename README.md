@@ -11,10 +11,10 @@ Proficient in HTML, CSS, and JavaScript, I wield the power of React for creating
 
 - <b>Front-end:</b> React.js, Redux, Hooks, Context API
 - <b>Testing:</b> Cypress, Yup, Axios
-- <b>Backend:</b> Node.js, Express, SQL, SQLite3
+- <b>Backend:</b> Node.js, Express, SQL, SQLite3, Rails
 - <b>Soft Skills:</b> Communication, Problem Solving, Interpersonal, Strong Listener
 - <b>Tools:</b> GitHub, VS Code, Vercel, Heroku, Postman API
-- <b>Other:</b> Algorithms, System Architecture, Debugging, Deployment
+- <b>Other:</b> Algorithms, System Architecture, Debugging, Deployment, Python
   
 ## 🌱 In Progress
 While my official coding journey is in its early stages, I firmly believe in the power of results. I'm driven to leverage my coding achievements as a stepping stone to gain invaluable industry experience.
@@ -28,7 +28,7 @@ Currently seeking remote opportunities in front-end or full-stack web developmen
   
 ## 📚 Ongoing Endeavors
 
-- <b>Learning:</b> Java
+- <b>Learning:</b> Java and Python
 - <b>Working On:</b> Enhancing my skill set to be a highly marketable candidate.
 <hr/>
   
