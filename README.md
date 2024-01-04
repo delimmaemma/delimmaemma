@@ -11,7 +11,7 @@ Proficient in HTML, CSS, and JavaScript, I wield the power of React for creating
 
 - <b>Front-end:</b> React.js, Redux, Hooks, Context API
 - <b>Testing:</b> Cypress, Yup, Axios
-- <b>Backend:</b> Node.js, Express, SQL, SQLite3, Rails
+- <b>Backend:</b> Node.js, Express, Flask, Rails, SQL
 - <b>Soft Skills:</b> Communication, Problem Solving, Interpersonal, Strong Listener
 - <b>Tools:</b> GitHub, VS Code, Vercel, Heroku, Postman API
 - <b>Other:</b> Algorithms, System Architecture, Debugging, Deployment, Python
