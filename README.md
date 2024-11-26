@@ -24,7 +24,7 @@ Currently seeking remote opportunities in back-end or full-stack web development
 
 ## 🌈 Additional Insights
 
-- Connect with me on <a href="https://www.github.com/dilemmaemma">GitHub</a>, <a href="https://www.linkedin.com/in/emmahtml">LinkedIn</a>, or via <a href="mailto: emmaf.henderson@outlook.com">email</a>.
+- Connect with me on <a href="https://www.github.com/euodiaspark">GitHub</a>, <a href="https://www.linkedin.com/in/euodiaspark">LinkedIn</a>, or via <a href="mailto: euodiaspark@gmail.com">email</a>.
   
 ## 📚 Ongoing Endeavors
 
